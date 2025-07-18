@@ -1,0 +1,1 @@
+MODEL_PATH = r"C:\Users\sanja\Sem-6\Applied AI\Satellite Image Segmentation + GAN for Enhancement + Gemini Chatbot\Models\InceptionResNetV2-UNet_BEST.h5"

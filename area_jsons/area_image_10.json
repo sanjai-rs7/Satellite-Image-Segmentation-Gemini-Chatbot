@@ -1,0 +1,18 @@
+{
+  "ground_truth_area_percent": {
+    "building": 42.72,
+    "land": 15.77,
+    "road": 0.0,
+    "vegetation": 16.12,
+    "water": 24.78,
+    "unlabeled": 0.6
+  },
+  "predicted_area_percent": {
+    "building": 0.01,
+    "land": 13.28,
+    "road": 0.19,
+    "vegetation": 15.53,
+    "water": 70.97,
+    "unlabeled": 0.01
+  }
+}

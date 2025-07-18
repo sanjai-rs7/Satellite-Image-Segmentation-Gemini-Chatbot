@@ -1,0 +1,54 @@
+{
+  "ground_truth": {
+    "building": {
+      "pixels": 113684,
+      "percent": 43.37
+    },
+    "land": {
+      "pixels": 77443,
+      "percent": 29.54
+    },
+    "road": {
+      "pixels": 48543,
+      "percent": 18.52
+    },
+    "vegetation": {
+      "pixels": 9852,
+      "percent": 3.76
+    },
+    "water": {
+      "pixels": 12622,
+      "percent": 4.81
+    },
+    "unlabeled": {
+      "pixels": 0,
+      "percent": 0.0
+    }
+  },
+  "prediction": {
+    "building": {
+      "pixels": 71353,
+      "percent": 27.22
+    },
+    "land": {
+      "pixels": 75432,
+      "percent": 28.78
+    },
+    "road": {
+      "pixels": 44733,
+      "percent": 17.06
+    },
+    "vegetation": {
+      "pixels": 5264,
+      "percent": 2.01
+    },
+    "water": {
+      "pixels": 65362,
+      "percent": 24.93
+    },
+    "unlabeled": {
+      "pixels": 0,
+      "percent": 0.0
+    }
+  }
+}

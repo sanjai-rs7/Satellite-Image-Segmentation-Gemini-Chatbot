@@ -1,0 +1,28 @@
+{
+  "prediction": {
+    "building": {
+      "pixels": 21411,
+      "percent": 8.17
+    },
+    "land": {
+      "pixels": 64353,
+      "percent": 24.55
+    },
+    "road": {
+      "pixels": 70751,
+      "percent": 26.99
+    },
+    "vegetation": {
+      "pixels": 2585,
+      "percent": 0.99
+    },
+    "water": {
+      "pixels": 103044,
+      "percent": 39.31
+    },
+    "unlabeled": {
+      "pixels": 0,
+      "percent": 0.0
+    }
+  }
+}
